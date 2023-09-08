@@ -155,3 +155,6 @@ hr {
     margin:20px 100px;
     border-radius: 5px;
 }
+a{
+    text-decoration: none;
+}
